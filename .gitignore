@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+*.log
+*.db
+*.db-shm
+*.db-wal
+*.bak
+*.zip
+Backups/
+Exports/
+outputs/
+publish/
+bin/
+obj/
