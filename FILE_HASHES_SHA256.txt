@@ -1,0 +1,17 @@
+a6f485027ff824befdacdfb111178b5d202a09134edbaa32e524420b9955eb99  ./.github/workflows/secret-scan.yml
+cdc6da6a7f410ffdd8b63089470bc428e2fe48725f11bf002b94796f1f2673ff  ./.gitignore
+5bf6ee1832a0182696ef77e6d0ceb7302218207cf7ee33087dba5b9d83d14b4f  ./NOTICE.md
+dccb6ad58add16728b79ee8b38c259bc6efb1c8ee40e077e8787cc2f171a1701  ./README.md
+283ba5f61e8febaa1e314ab5d4f9ac8416f5b85ac27504206613d6620050ec63  ./SECURITY.md
+2c3df3b3ce003bb5fc8f4313f8f729034868f4d1ec01bd54fadeee62ced13957  ./docs/ARCHITECTURE_OVERVIEW.md
+ccfc02cd30f6dcd7a299549bc4bc9efbd4158a477b6d390a4d11b53f1114e901  ./docs/CASE_STUDY.md
+34e4617efe97b6e1c00f1497e54aa76a9e41f025b5f4bf0e4dddfd5229712176  ./docs/CODE_EXAMPLE.md
+e0529963f43cf2ef85d5a3868a0e553923127efab9f4913856eb706ce9de7797  ./docs/PRIVACY_AND_DATA_DESIGN.md
+b4dddeec680ce7c3dc10a733f5223a4a0b1c557a472360540e47875b56846228  ./docs/PUBLICATION_AUDIT.md
+533c6779528b2e94ce5b610f8f4158b7e7a72ad467f1181f664d2b753ed63655  ./docs/QA_AND_RELEASE.md
+7c175d03b5c51684db61d637f847f3d1d46033b3e9355e367b5e178fe97a3120  ./docs/screenshots/poker-tournament-manager-break-workflow-fix.png
+f99369c6660cb27484f15784da98da9f36efe1b3330ef7c9054e16c6267b5d05  ./docs/screenshots/poker-tournament-manager-paused-level-advance.png
+1e0cfae8111bcbe6dc60c1901dd4280131142cb7aeeb7d493e1ed82eff4d8d4a  ./docs/screenshots/poker-tournament-manager-timer-regression-test.png
+220208eaea30db8b92d355caf7ee3aaa19a1b679720cd2e897d1b0d89ee9dc8d  ./docs/screenshots/poker-tournament-manager-v1.1.1-home.png
+7a4debd169d83b44439015003e92880a56008dda44a8fd0e655a7f8a7d7131a9  ./releases/FINAL_ACCEPTANCE_REPORT_v1.1.1.md
+e004e16acd59b88e5317eb630a89b27bd9950e214229b27199fe4b880ee0a6cf  ./releases/RELEASE_NOTES_v1.1.1.md
