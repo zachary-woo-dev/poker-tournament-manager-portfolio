@@ -146,11 +146,11 @@ See [Architecture Overview](docs/ARCHITECTURE_OVERVIEW.md).
 
 ## Data and Privacy Design
 
-Tournament data is intentionally session-only rather than a permanent personal poker-history ledger.
+Tournament data is intentionally session-only rather than a permanent event-history ledger.
 
 - A current tournament may be retained temporarily for crash recovery.
 - Confirmed discard removes the active tournament aggregate.
-- The application does not enforce personal gambling frequency, budgets, loss limits, or cooldowns.
+- The application does not use prior activity to allow or deny tournament creation.
 - Preferences, presets, inventory, reference material, and independent study notes may persist.
 - Release packages exclude production databases, backups, logs, exports, and user data.
 
@@ -160,7 +160,7 @@ See [Privacy and Data Design](docs/PRIVACY_AND_DATA_DESIGN.md).
 
 This repository intentionally presents a curated professional case study rather than the full private development archive.
 
-The private archive contains historical source mappings tied to personal documents and internal QA material. Those materials are not needed to demonstrate the product, architecture, testing, or release process and are intentionally excluded from publication.
+The full development archive contains unpublished source mappings and internal QA material. Those materials are not needed to demonstrate the product, architecture, testing, or release process and are intentionally excluded from publication.
 
 This repository contains:
 
