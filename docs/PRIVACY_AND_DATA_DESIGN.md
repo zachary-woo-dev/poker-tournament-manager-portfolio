@@ -2,7 +2,7 @@
 
 ## Session-Only Tournament Data
 
-Poker Tournament Manager intentionally does not maintain a permanent personal tournament-history ledger.
+Poker Tournament Manager intentionally does not maintain a permanent tournament-history ledger.
 
 The active tournament may be persisted temporarily for:
 
@@ -24,18 +24,9 @@ A confirmed discard removes the active tournament aggregate.
 - Independent session and hand reviews
 - Backup metadata
 
-## What the Application Does Not Enforce
+## Activity-Based Eligibility
 
-The software does not block tournament creation based on prior poker activity and does not enforce:
-
-- Monthly gambling budgets
-- Paid-session limits
-- Loss limits
-- Cooldowns
-- Re-entry policy derived from personal history
-- Personal responsible-play ledgers
-
-Personal safeguards remain outside the application.
+The software does not use prior activity to allow or deny tournament creation. User-specific participation safeguards remain outside the application and are neither collected nor enforced.
 
 ## Release Hygiene
 
@@ -55,14 +46,14 @@ Release and source-control checks excluded:
 
 ## Public Portfolio Boundary
 
-The full development archive remains private because historical source mappings referenced personal documents and internal QA material.
+The full development archive remains private because historical source mappings referenced unpublished documents and internal QA material.
 
 This public portfolio package excludes:
 
 - Private source-document filenames and hashes
-- Personal policy values
+- Unpublished user-specific policy material
 - Internal source-alignment reports
-- Historical personal-limit documentation
+- Historical internal policy documentation
 - Real player or event data
 - Production source history
 
