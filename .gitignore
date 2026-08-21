@@ -1,5 +1,7 @@
 .DS_Store
 Thumbs.db
+
+# Build, runtime, and generated artifacts
 *.log
 *.db
 *.db-shm
@@ -12,3 +14,18 @@ outputs/
 publish/
 bin/
 obj/
+.vs/
+*.user
+*.suo
+
+# Local secrets and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+*.kdbx
+secrets.*
+credentials.*
