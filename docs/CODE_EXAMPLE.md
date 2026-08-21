@@ -1,6 +1,6 @@
 # Code Example: Live Hand Position Transitions
 
-The full private source archive is not published because historical seed data contains private source-document mappings. This condensed example shows the style of deterministic Core logic used for live positions without reproducing private metadata.
+The full implementation is not published in this portfolio repository. This condensed example shows the style of deterministic Core logic used for live positions without reproducing unpublished internal metadata. It is illustrative rather than a standalone compilable file; helper methods and overloads are omitted for brevity.
 
 ```csharp
 public static LiveHandPosition Next(
