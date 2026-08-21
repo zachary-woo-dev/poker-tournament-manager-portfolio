@@ -8,7 +8,7 @@
 
 The full development repository remains private.
 
-A fresh public repository should be created from this curated package so the public history does not expose earlier private source mappings or internal personal-policy material.
+A fresh public repository should be created from this curated package so the public history does not expose unpublished source mappings or internal policy material.
 
 ## Checks Completed
 
@@ -27,8 +27,8 @@ A fresh public repository should be created from this curated package so the pub
 
 - Source alignment report
 - Historical private source filenames and SHA-256 mappings
-- Personal responsible-play policy values
-- Internal UI audit reports containing old personal-policy wording
+- Unpublished user-specific policy material
+- Internal UI audit reports containing obsolete policy wording
 - Full private development history
 - Production source files that embed private source metadata
 
